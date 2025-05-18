@@ -1,0 +1,68 @@
+
+======================================================================
+🔷 Evaluating: Logistic Regression 🔷
+✅ Accuracy Score: 1.0000
+📋 Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        26
+           1       1.00      1.00      1.00        19
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+🧾 Confusion Matrix:
+[[26  0]
+ [ 0 19]]
+
+======================================================================
+🔷 Evaluating: AdaBoost 🔷
+✅ Accuracy Score: 1.0000
+📋 Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        26
+           1       1.00      1.00      1.00        19
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+🧾 Confusion Matrix:
+[[26  0]
+ [ 0 19]]
+
+======================================================================
+🔷 Evaluating: Gradient Boosting 🔷
+✅ Accuracy Score: 1.0000
+📋 Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        26
+           1       1.00      1.00      1.00        19
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+🧾 Confusion Matrix:
+[[26  0]
+ [ 0 19]]
+
+======================================================================
+🔷 Evaluating: Random Forest 🔷
+✅ Accuracy Score: 1.0000
+📋 Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        26
+           1       1.00      1.00      1.00        19
+
+    accuracy                           1.00        45
+   macro avg       1.00      1.00      1.00        45
+weighted avg       1.00      1.00      1.00        45
+
+🧾 Confusion Matrix:
+[[26  0]
+ [ 0 19]]
